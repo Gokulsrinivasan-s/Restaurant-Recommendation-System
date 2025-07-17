@@ -55,9 +55,11 @@ Top 3 Recommended Restaurants:
 2. Olive Italiano – Rating: 4.3 – Price: ₹700
 3. Roma Dine – Rating: 4.1 – Price: ₹550
    
-6)Outcome
+6)Outcome:
 *Created a working recommendation system using real-world restaurant data.
 *Learned how to process text data using TF-IDF and calculate similarity using Cosine Similarity.
 *Improved skills in natural language processing and feature engineering.
 
 7)Output:
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/e828b391-59e7-4d68-bae6-ae5b5ddf2201" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/bd64f0ac-b511-44e7-9c2e-2c934e3750fb" />
