@@ -61,5 +61,7 @@ Top 3 Recommended Restaurants:
 *Improved skills in natural language processing and feature engineering.
 
 7)Output:
-<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/e828b391-59e7-4d68-bae6-ae5b5ddf2201" />
 <img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/bd64f0ac-b511-44e7-9c2e-2c934e3750fb" />
+
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/e828b391-59e7-4d68-bae6-ae5b5ddf2201" />
+
